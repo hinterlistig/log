@@ -1,0 +1,5 @@
+entries:
+  - title: Посты
+    post_list: true
+  - title: Списки
+    url: Notes/list.md
